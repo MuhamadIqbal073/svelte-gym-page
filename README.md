@@ -39,4 +39,4 @@ You can preview the production build with `npm run preview`.
 
 
 
-**\* Muhamad Iqbal, [GitHub](https://github.com/MuhamadIqbal073).**  
+*Muhamad Iqbal, [GitHub](https://github.com/MuhamadIqbal073).*  
